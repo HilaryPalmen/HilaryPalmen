@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HilaryPalmen. 
 - Psychology PhD.  UX Research 30 yrs+. New to researching Writting systems, Fonts, Scripts and Type families
-- 👀 Interested in how people decide to choose build and use a typographical hierarchy 
+- 👀 Interested in how people decide to choose build and use design systems with re-usable type systems 
 - 🌱 Learning fast about how to research Type in a strucutred and useful way
 - 💞️ I’m looking to collaborate on stuff that will help people design, choose and use fonts in ways to enable more inclusive readability
 
